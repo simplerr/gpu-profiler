@@ -11,7 +11,7 @@ use-ash = ["ash"]
 use-opengl = []
 
 [dependencies]
-puffin = ">=0.11"
+puffin = { git = "https://github.com/simplerr/puffin.git" }
 once_cell = ">=1.0"
 
 ash = { version = ">=0.33", optional = true }
