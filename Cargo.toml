@@ -14,4 +14,4 @@ use-opengl = []
 puffin = { git = "https://github.com/simplerr/puffin.git" }
 once_cell = ">=1.0"
 
-ash = { version = ">=0.33", optional = true }
+ash = { version = "0.37", optional = true }
